@@ -95,7 +95,8 @@
 - Project optimization tips
 
 
-<div align="center">
-[![Visitors](https://komarev.com/ghpvc/?username=AdityaBD45&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/AdityaBD45)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaBD45&label=Profile+Views&style=flat" alt="Profile views"/>
+</p>
+
 ⭐ From [AdityaBD45](https://github.com/AdityaBD45)
