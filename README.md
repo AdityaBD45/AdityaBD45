@@ -26,8 +26,9 @@
 **Digital License Marketplace**  
 ✔️ End-to-end MERN stack application  
 ✔️ JWT authentication & role-based dashboards  
-✔️ UPI/QR payment integration with admin verification  
-✔️ Cloudinary media uploads + live chat support  
+✔️ Email notifications
+✔️ Cloudinary media uploads + live chat support 
+✔️ UPI/QR payment integration with admin verification
 
 **Tech Stack:**  
 `React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Cloudinary` `Tawk.to`
