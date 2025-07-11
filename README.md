@@ -27,7 +27,7 @@
 ✔️ End-to-end MERN stack application  
 ✔️ JWT authentication & role-based dashboards  
 ✔️ Email notifications  
-✔️ Cloudinary media uploads + live chat support 
+✔️ Cloudinary media uploads + live chat support  
 ✔️ UPI/QR payment integration with admin verification
 
 **Tech Stack:**  
