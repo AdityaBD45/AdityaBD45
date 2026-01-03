@@ -1,8 +1,8 @@
-<h1 align="center">🫩, I'm Aditya B Dharaneppanavar</h1>
+<h1 align="center">🫩, I'm Aditya B Dharaneppanavar ✊🏽</h1>
 <h3 align="center"> Full Stack Developer (MERN) | ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions;ML+meets+full+stack+development" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ML+meets+full+stack+development+🤕;Building+scalable+web+solutions+🤕" alt="Typing animation" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabd)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lalitaadityadharaneppanavar@gmail.com)
-protfolio and leetcode links are in resume
+     protfolio and leetcode links are in resume
 </div>
 ---
 
@@ -26,7 +26,6 @@ protfolio and leetcode links are in resume
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -55,7 +54,7 @@ protfolio and leetcode links are in resume
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-#### didn't remembered all skills, able to build applications with these skills using AI 🤛🏽
+#### Note: didn't remembered all skills, able to build applications with these skills using AI 🤛🏽
 </div>
 
 
@@ -95,13 +94,6 @@ ML-powered system for analyzing cloud usage data and optimizing infrastructure c
 
 **🧠 ML Models:** Scikit-learn, LightGBM, Pandas for data analysis
 
----
-
-### 🏏 WagerXPlay - Cricket Odds Simulator
-[![Live Demo](https://img.shields.io/badge/PLAY_NOW-FF6B6B?style=flat-square&logo=gamejolt)](https://wagerxplay.onrender.com/)
-[![Source Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/AdityaBD45/WagerXPlay)
-
-Interactive cricket betting simulation with real-time odds calculation.
 
 
 ---
@@ -109,10 +101,6 @@ Interactive cricket betting simulation with real-time odds calculation.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-| 📈 Contribution Graph | 🏆 GitHub Stats |
-|:---:|:---:|
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaBD45&theme=react-dark&hide_border=true&area=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBD45&show_icons=true&theme=radical&hide_border=true&count_private=true) |
 
 | 💻 Most Used Languages | 🔥 Streak Stats |
 |:---:|:---:|
@@ -124,10 +112,7 @@ Interactive cricket betting simulation with real-time odds calculation.
 
 ## 🎯 Currently Working On
 
-- 🔍 **Advanced ML Integration** in web applications
-- ⚡ **Performance optimization** for large-scale React apps
-- 🧩 **Microservices architecture** exploration
-- 📱 **Responsive design** mastery
+- 🔍 Planing to do something
 
 ---
 
@@ -137,34 +122,24 @@ Interactive cricket betting simulation with real-time odds calculation.
   
 **I'm always open to:**
 - 🤝 Interesting collaborations
-- 💼 Internship opportunities
-- 🎯 Freelance projects
-- 🧠 Technical discussions
+
 
 **📫 How to reach me:**
 - 📧 Email: lalitaadityadharaneppanavar@gmail.com
 - 💼 LinkedIn: [Aditya B D](https://linkedin.com/in/adityabd)
-- 🌐 Portfolio: [softsell-16g8.onrender.com](https://softsell-16g8.onrender.com/)
 
 </div>
 
----
 
-## 🎨 Fun Facts
-
-- 🏏 Cricket enthusiast & fantasy league player
-- ☕ Coffee-fueled coder
-- 📚 Lifelong learner (currently diving deep into system design)
-- 🎮 Casual gamer in free time
 
 ---
 
 <div align="center">
   
-### ⭐️ Star my repositories if you find something interesting!
+### ⭐️ Star my repositories if you find something interesting honestly!
   
 <img src="https://komarev.com/ghpvc/?username=AdityaBD45&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
   
-**Thanks for visiting!** 😊
+**Thanks for visiting!** 🫶🏽
 
 </div>
