@@ -1,4 +1,4 @@
-<h1 align="center">🫩, I'm Aditya B Dharaneppanavar ✊🏽</h1>
+<h1 align="center">🫩, I'm Aditya B D ✊🏽</h1>
 <h3 align="center"> Full Stack Developer (MERN) | ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -60,6 +60,23 @@
 
 ---
 ## 🏆 Featured Projects
+### ☁️ Cloud Cost Optimizer
+[![GitHub Repo](https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/AdityaBD45/Cloud-Cost-Optimiser)
+
+ML-powered system for analyzing cloud usage data and optimizing infrastructure costs.
+
+**🎯 Key Highlights:**
+- 📊 7-day cost prediction using ML models
+- 🎯 Resource waste detection
+- 🚀 FastAPI backend for data processing
+- 📈 Interactive React dashboard
+- 📦 Docker containerization
+
+**🧠 ML Models:** Scikit-learn, LightGBM, Pandas for data analysis
+
+
+
+---
 
 ### 🛒 SoftSell - Digital License Marketplace
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4BC0D9?style=for-the-badge&logo=render&logoColor=white)](https://softsell-16g8.onrender.com/)
@@ -77,23 +94,6 @@ A full-featured marketplace for buying and reselling digital software licenses w
 - 👨‍💼 Admin verification system
 
 **🛠️ Tech Stack:** React, Redux, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Tawk.to
-
----
-
-### ☁️ Cloud Cost Optimizer
-[![GitHub Repo](https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/AdityaBD45/cloud-cost-optimizer)
-
-ML-powered system for analyzing cloud usage data and optimizing infrastructure costs.
-
-**🎯 Key Highlights:**
-- 📊 7-day cost prediction using ML models
-- 🎯 Resource waste detection
-- 🚀 FastAPI backend for data processing
-- 📈 Interactive React dashboard
-- 📦 Docker containerization
-
-**🧠 ML Models:** Scikit-learn, LightGBM, Pandas for data analysis
-
 
 
 ---
