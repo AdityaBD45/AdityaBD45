@@ -79,7 +79,6 @@ ML-powered system for analyzing cloud usage data and optimizing infrastructure c
 ---
 
 ### 🛒 SoftSell - Digital License Marketplace
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4BC0D9?style=for-the-badge&logo=render&logoColor=white)](https://softsell-16g8.onrender.com/)
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/AdityaBD45/softsell)
 
 
